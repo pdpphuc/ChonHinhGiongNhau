@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chọn hình giống nhau</string>
+    <string-array name="list_name">
+        <item>doraemon1</item>
+        <item>doraemon2</item>
+        <item>doraemon3</item>
+        <item>doraemon4</item>
+        <item>doraemon5</item>
+        <item>doraemon6</item>
+        <item>doraemon7</item>
+        <item>doraemon8</item>
+        <item>doraemon9</item>
+    </string-array>
+</resources>
